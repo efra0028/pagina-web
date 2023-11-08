@@ -1,0 +1,14 @@
+.menu__link {
+    color: red;
+    margin-right: 2rem;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: white;
+
+}
+
+.menu__link:hover {
+    text-decoration: underline;
+    color: red;
+
+}

@@ -1,0 +1,9 @@
+.banner__titulo {
+    color: black;
+    font-family: Agbalumo;
+    text-align: center;
+    text-shadow: 0 4px 4px red;
+    text-transform: uppercase;
+    font-size: 5rem;
+
+}
