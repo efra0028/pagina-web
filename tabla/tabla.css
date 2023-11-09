@@ -1,0 +1,7 @@
+.tabla {
+    background-color: #92d0af;
+    width: 100%;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}

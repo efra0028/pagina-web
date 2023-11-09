@@ -1,0 +1,9 @@
+.productos {
+    display: flex;
+    flex-wrap: wrap;
+    object-fit: cover;
+    justify-content: space-between;
+    background-color: white;
+    margin-left: 10rem;
+    margin-right: 10rem;
+}

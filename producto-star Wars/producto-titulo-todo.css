@@ -1,0 +1,11 @@
+.titulo_todo {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+
+.titulo_todo:last-child .producto__link {
+    margin-right: 0;
+}

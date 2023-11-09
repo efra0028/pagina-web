@@ -1,0 +1,9 @@
+.producto__boton {
+    color: #1AAC5D;
+    background-color: white;
+    border: none;
+}
+
+.producto__boton:hover {
+    color: red;
+}
